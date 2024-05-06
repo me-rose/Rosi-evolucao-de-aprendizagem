@@ -3,16 +3,16 @@ evolucao-de-aprendizagem Mod 02
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
-- Soft skills
-- LinkedIn
-- Ética em tecnologia
-- Gestão de tempo
-- Git básico
-- Introdução a TypeScript
-- Métodos de strings
-- Métodos de arrays
+ :fa-meh-o:		Soft skills
+ :fa-smile-o:	Ética em tecnologia
+  :fa-frown-o: 	LinkedIn
+ :fa-meh-o: 	Gestão de tempo
+ :fa-frown-o:	 Git básico
+ :fa-smile-o: 	 Introdução a TypeScript
+ :fa-frown-o:	 Métodos de strings
+ :fa-frown-o:	 Métodos de arrays
   
-## **Autoavaliação de minha jornada de aprendizado**
+## **Autoavaliação da minha jornada de aprendizado**
 
 
 #### 1. O que eu já sei sobre os assuntos que serão abordados nesse módulo?
