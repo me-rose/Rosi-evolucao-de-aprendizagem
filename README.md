@@ -3,6 +3,12 @@ evolucao-de-aprendizagem Mod 02
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
+:slightly_frowning_face:
+
+:expressionless:
+
+:slightly_smiling_face:
+
 :fa-smile-o: Soft skills
  :fa-meh-o:		Soft skills
  :fa-smile-o:	Ética em tecnologia
