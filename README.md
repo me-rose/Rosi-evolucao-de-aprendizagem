@@ -9,15 +9,14 @@ evolucao-de-aprendizagem Mod 02
 
 :slightly_smiling_face:
 
-:fa-smile-o: Soft skills
- :fa-meh-o:		Soft skills
- :fa-smile-o:	Ética em tecnologia
- :fa-frown-o: 	LinkedIn
- :fa-meh-o: 	Gestão de tempo
- :fa-frown-o:	 Git básico
- :fa-smile-o: 	 Introdução a TypeScript
- :fa-frown-o:	 Métodos de strings
- :fa-frown-o:	 Métodos de arrays
+:expressionless: Soft skills
+ :slightly_smiling_face:	Ética em tecnologia
+:slightly_frowning_face: LinkedIn
+:slightly_frowning_face: 	Gestão de tempo
+:slightly_frowning_face: Git básico
+:slightly_smiling_face: 	 Introdução a TypeScript
+:slightly_frowning_face:	 Métodos de strings
+:expressionless:	 Métodos de arrays
   
 ## **Autoavaliação da minha jornada de aprendizado**
 
