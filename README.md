@@ -3,9 +3,10 @@ evolucao-de-aprendizagem Mod 02
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
+:fa-smile-o: Soft skills
  :fa-meh-o:		Soft skills
  :fa-smile-o:	Ética em tecnologia
-  :fa-frown-o: 	LinkedIn
+ :fa-frown-o: 	LinkedIn
  :fa-meh-o: 	Gestão de tempo
  :fa-frown-o:	 Git básico
  :fa-smile-o: 	 Introdução a TypeScript
