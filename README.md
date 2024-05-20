@@ -24,6 +24,9 @@ evolucao-de-aprendizagem Mod 02
 
 
 #### 1. O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+sobre as softs skills, sei a importancia de saber se desenvolver usando habilidades interpessoais. 
+TRabalhamos com pessoas e cada um é um mundo, entao é importante ter profissionalismo, a essencia, inteligencia emocional.
+
 
 
 #### 2. O que quero aprender sobre os assuntos que serão abordados nesse módulo?
