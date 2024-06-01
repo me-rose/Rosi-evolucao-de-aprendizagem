@@ -19,6 +19,7 @@ LOGICA E PROGRAMACAO
 - Sendo muito sincera, ta sendo um pouco complicado aprender a logica de programacao me lembra bastante o excel, e me da uma pena que nunca aprendi as funcoes mais dificeis do Excel, hoje seria tudo mais facil.
 - Dedido algumas horas no fim de semana para fazer as aulas e os exercicios.
 - Ainda nao fiz nada fora do curso, por enquanto so estou aprendendo a partir deste curso.
+- Vou evoluindo conforme o curso avanca, mas reconheco que estou bem verde nos temas ainda.
 
 #### 1. O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 - sobre as softs skills, sei a importancia de saber gestionar bem o tempo. 
