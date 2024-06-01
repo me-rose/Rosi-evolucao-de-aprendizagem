@@ -3,22 +3,17 @@ evolucao-de-aprendizagem Mod 02
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
+CARREIRA:
+- Gestao de tempo
+- Curriculum e carta de apresentação
+- Linkedin: primeiros passos
 
-:expressionless: Soft skills
-
-:slightly_smiling_face:	Ética em tecnologia
-
-:slightly_frowning_face: LinkedIn
-
-:slightly_frowning_face: 	Gestão de tempo
-
-:slightly_frowning_face: Git básico
-
-:slightly_smiling_face: 	 Introdução a TypeScript
-
-:slightly_frowning_face:	 Métodos de strings
-
-:expressionless:	 Métodos de arrays
+LOGICA E PROGRAMACAO
+- Funções
+- Tipos de dados - tipagem
+- Tipos de utilitários
+- Métodos de strings
+- Métodos de arrays
   
 ## **Autoavaliação da minha jornada de aprendizado**
 
