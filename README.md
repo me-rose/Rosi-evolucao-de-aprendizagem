@@ -50,7 +50,10 @@ LOGICA E PROGRAMACAO
   
 #### 4. Minha evolução: MODULO 3 :(
 
-- Neste módulo, tive muita dificuldde de acompanhar as aulas e praticar, o conteudo acumulou e virou uma bola de neve. Nos ultimos dias do modulo fiquei sem computador, e foi complicado seguir as aulas. Com as aulas de revisao consegui ir fazendo o desafio, Com a aula de revisao parte I do mod 3, consegui fazer as partes 1 e 2. Com a aula de rvisao do dia 18.06, consegui fazer a parte 3. 
+- Neste módulo, tive muita dificuldde de acompanhar as aulas e praticar, o conteudo acumulou e virou uma bola de neve.
+- Nos ultimos dias do modulo fiquei sem computador, e foi complicado seguir as aulas.
+- Com as aulas de revisao consegui ir fazendo o desafio, Com a aula de revisao parte I do mod 3, consegui fazer as partes 1 e 2.
+- Com a aula de rvisao do dia 18.06, consegui fazer a parte 3. 
 - Queria muito aprender bem sobre API, gosto do mercado SaaS e isso é basico.
 - Realmente foi complicado este modulo. 
 
